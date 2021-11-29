@@ -111,6 +111,7 @@ main{
     background-color:white;
     flex-direction: column;
 }
+
 .div_izq{
     margin: 5% auto;
     border: 1px solid black;
