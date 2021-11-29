@@ -124,6 +124,7 @@ h4{
     font-size: 1.5vw;
     color: black;
 }
+
 #div_lista_izq{
     font-size: 1.2vw;
     width:12vw;
