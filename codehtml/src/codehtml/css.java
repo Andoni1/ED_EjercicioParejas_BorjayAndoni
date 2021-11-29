@@ -104,6 +104,7 @@ main{
     color:white;
     text-align: center;
 }
+
 #aside_drch{
     display: flex;
     width:25%;
