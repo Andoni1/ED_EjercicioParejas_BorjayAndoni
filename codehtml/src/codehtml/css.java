@@ -132,7 +132,6 @@ h4{
 }
 
 
-
  .div_izq p{
      margin: 3%;
     font-size: 1.2vw;
